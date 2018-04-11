@@ -89,7 +89,7 @@ function scene:show( event )
         local transitionOptions = (
             {
                 effect = "zoomOutIn",
-                time = 1000
+                time = 300
             })
 
         -- Creating Transition function

@@ -2,8 +2,10 @@
 --
 -- main.lua
 -- Transitions Examples
--- Created by Wal Wal
--- Started November 14
+-- JohnathanM
+-- ICS20 Widgets and Transitions
+-- This program is a demonstration showing some
+-- of the different tansitions you can use in lua
 --
 -----------------------------------------------------------------------------------------
 

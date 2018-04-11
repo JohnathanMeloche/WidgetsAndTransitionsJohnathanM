@@ -117,7 +117,7 @@ function scene:show( event )
         local transitionOptions_ZoomOutIn = (
             {
                 effect = "zoomOutIn", -- The animation it's going to use when transitioning
-                time = 1000, -- How long the transition will take
+                time = 300, -- How long the transition will take
             })
 
         -- The function which transitions to the next screen
